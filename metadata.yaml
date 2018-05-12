@@ -1,15 +1,21 @@
 _repo: Kruunu-ja-okaita-Romantillinen-kertomus-suomalais-venalaisesta-sodasta-1808-1809_48935
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Lauri P.
     gutenberg_agent_id: '45049'
     url: http://www.gutenberg.org/2009/agents/45049
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trolle, Henrik af
     gutenberg_agent_id: '45048'
     url: http://www.gutenberg.org/2009/agents/45048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48935#Kruunu-ja-okaita-Romantillinen-kertomus-suomalais-venalaisesta-sodasta-1808-1809
 gutenberg_issued: '2015-05-11'
 gutenberg_type: Text
 identifiers:
